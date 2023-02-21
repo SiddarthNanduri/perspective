@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9b3cda1725fcec64c8b4e7b50e4997ed
+  - enabled: 1
+    path: Assets/Scenes/VR Suicide Prevention.unity
+    guid: b1f2e126eba82094fa1185ecb31b3129
+  - enabled: 1
+    path: Assets/Scenes/Dying Alone.unity
+    guid: bf05f8d18e4a46144a21b1597ce8f37a
+  - enabled: 1
+    path: Assets/Scenes/Dying due to misunderstanding.unity
+    guid: 3bcdb0fc55acecd409c7b9b053100141
+  - enabled: 1
+    path: Assets/Scenes/Cops Arrive.unity
+    guid: b50d808e6a6670c43b3d8c06fa37ed9c
+  - enabled: 1
+    path: Assets/Scenes/You go somewhere safe.unity
+    guid: 07d3a191111c3074bac778ebdb3e7686
+  - enabled: 1
+    path: Assets/Scenes/What Now.unity
+    guid: 6e7229a83f15f1d42a4cfdc3aea6e9f2
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a6afe98e7bd3b124894317e60522b9ab, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: f215189a0ef9f2547b48a15fe177b135, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3907ac65820caf9419361d98e94be9a4, type: 2}
